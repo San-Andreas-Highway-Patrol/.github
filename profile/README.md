@@ -10,16 +10,16 @@ This resource will include all vehicle assets for all San Andreas Highway Patrol
 | `5100`                          | `Highway Patrol Command`              | ⛔                       |
 | `5200`                          | `Highway Patrol Supervisor`           | ⛔                       |
 | `5300`                          | `Road Patrol Division`                | ✅                       |
-| `5400`                          | `Commercial Vehicle Safety Group`     | ⛔                       |
-| `5500`                          | `Impaired Driving Enforcement Group`  | ⛔                       |
+| `5400`                          | `Commercial Vehicle Safety Group`     | ✅                       |
+| `5500`                          | `Impaired Driving Enforcement Group`  | ✅                       |
 | `5600`                          | `Canine Operations Division`          | ⛔                       |
 | `5700`                          | `Strategic Interventions Group`       | ✅                       |
-| `5800`                          | `Motorcycle Traffic Assistance Group` | ⛔                       |
-| `5900`                          | `Advanced Traffic Services Division`  | ⛔                       |
-| `6000`                          | `Bureau of Special Operations`        | ⛔                       |
+| `5800`                          | `Motorcycle Traffic Assistance Group` | ✅                       |
+| `5900`                          | `Specialized Enforcement Bureau`      | ✅                       |
+| `6000`                          | `Bureau of Special Operations`        | ✅                       |
 | `6100`                          | `Serious Crimes Group`                | ⛔                       |
 | `6200`                          | `Freeway Service Patrol`              | ⛔                       |
-| `6300`                          | `Air Operations Group`                | ⛔                       |
+| `6300`                          | `Air Operations Group`                | ✅                       |
 
 ## Road Patrol Division - Vehicle Liveries
 
